@@ -9,9 +9,9 @@ retrieve documents
 
 write a final report
 
-Architecture ::
+<!-- Architecture :: -->
 
-User Question
+<!-- User Question
       ↓
 Planner Agent
       ↓
@@ -23,6 +23,6 @@ Retriever (Vector DB)
       ↓
 Writer Agent
       ↓
-Final Report
+Final Report -->
 
 **** Multiple agents collaborate to solve the task. ***
